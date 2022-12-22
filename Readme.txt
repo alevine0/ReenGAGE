@@ -1,4 +1,4 @@
-Code and Supplementary Material for the paper "Goal-Conditioned Q-Learning as Knowledge Distillation" by Alexander Levine and Soheil Feizi, accepted in AAAI 2023. 
+Code and Appendix for the paper "Goal-Conditioned Q-Learning as Knowledge Distillation" by Alexander Levine and Soheil Feizi, accepted in AAAI 2023. 
 
 Non-Robotics Experiments:
 
